@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Pylons/webob/commit/c0d70f985ff6f04dcc59822ca5216cfd0ada666c",
       "git:hexsha": "c0d70f985ff6f04dcc59822ca5216cfd0ada666c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T02:07:32.320410+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/webob/commit/c7efbb5fdbe1ac4e2bd3ac3221e99044854c4ae5",
